@@ -1,0 +1,18 @@
+{
+  "name": "hacktoberfest19",
+  "version": "1.0.0",
+  "description": "A repository for first time contributers!",
+  "main": "index.js",
+  "author": "ProfessorNudelz",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
